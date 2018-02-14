@@ -1,0 +1,11 @@
+Source: osifont
+Maintainer: Sebastian Bachmann <hello@reox.at>
+Section: fonts
+Priority: optional
+Build-Depends: debhelper (>= 9)
+
+Package: fonts-osifont-ttf
+Architecture: any
+Description: OpenSource OSI Font for CAD
+ In some European countries, CAD projects must have font which conform to
+ IS0 3O98 specification. Commercial CADs has this font, but free CADs not.
